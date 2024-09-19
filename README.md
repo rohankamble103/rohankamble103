@@ -20,17 +20,9 @@ I am a DevOps Engineer with over 2 years of experience in the fintech industry. 
 - Implemented infrastructure as code (IaC) solutions with Terraform to provision cloud resources efficiently.
 - Collaborated with development teams to streamline workflows and enhance productivity through automation.
 
-## Projects
-### [Project Name]
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies used in the project.
-
-### [Project Name]
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies used in the project.
 
 ## Contact
 Feel free to reach out for collaboration or inquiries!
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email**: [Email](rohankambleoffice@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rohan-kamble-79705a217/)
