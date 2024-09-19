@@ -13,6 +13,7 @@ I am a DevOps Engineer with over 2 years of experience in the fintech industry. 
 - **Databases**: MongoDB, MySQL
 - **Messaging Systems**: Kafka, Zookeeper
 - **Cloud Platforms**: AWS, Azure
+- **Security Tools**: Sonarcube, Trivy
 
 ## Experience
 - Developed and maintained CI/CD pipelines using Jenkins and GitHub Actions to automate deployment processes.
