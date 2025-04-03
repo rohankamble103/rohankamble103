@@ -25,5 +25,5 @@ I am a DevOps Engineer with over 3+ years of experience in the fintech industry.
 ## Contact
 Feel free to reach out for collaboration or inquiries!
 
-- **Email**: [Email](rohankambleoffice@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rohan-kamble-79705a217/)
+- **Email**: rohankambleoffice@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/rohan-kamble-79705a217/
